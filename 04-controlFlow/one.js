@@ -1,6 +1,6 @@
-const temperature = 3
+const tenperature = 3
 
-if (temperature <= 50){
+if (tenperature <= 50){
     console.log("less than 50")
 }
 else{
